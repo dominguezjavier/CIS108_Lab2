@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CIS_108_LAB_2_01_23_2019.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Excercise2.cpp
+c:\users\doja7003\source\repos\cis_108_lab_2_01_23_2019\cis_108_lab_2_01_23_2019\excercise2.cpp(7): fatal error C1075: '{': no matching token found
+  Excercise1.cpp
+  Excercise3.cpp
+  Generating Code...
